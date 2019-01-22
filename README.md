@@ -1,13 +1,7 @@
-# CRUD Application with ASP.NET Core and Vue.js
+Run the ASP.NET Core by running the following in your bash inside of AspNetCore folder:
+	
+	dotnet run
+	
+Start the Vue application by running the following in your bash inside of Vue/gpa-tracker folder:
 
-This example shows how to build a basic CRUD application with ASP.NET Core and Vue.js
-
-Please read [Build a Simple CRUD App with ASP.NET Core and Vue](https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore) to see how this app was created.
-
-## Help
-
-Please post any questions as comments on the [blog post](https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore), or visit our [Okta Developer Forums](https://devforum.okta.com/). You can also email developers@okta.com if you'd like to create a support ticket.
-
-## License
-
-Apache 2.0, see [LICENSE](LICENSE).
+	npm run dev
