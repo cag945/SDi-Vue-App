@@ -1,0 +1,14 @@
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\bin\Debug\netcoreapp2.1\gpa-tracker.deps.json
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\bin\Debug\netcoreapp2.1\gpa-tracker.runtimeconfig.json
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\bin\Debug\netcoreapp2.1\gpa-tracker.runtimeconfig.dev.json
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\bin\Debug\netcoreapp2.1\gpa-tracker.dll
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\bin\Debug\netcoreapp2.1\gpa-tracker.pdb
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\obj\Debug\netcoreapp2.1\gpa-tracker.csprojAssemblyReference.cache
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\obj\Debug\netcoreapp2.1\gpa-tracker.csproj.CoreCompileInputs.cache
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\obj\Debug\netcoreapp2.1\gpa-tracker.RazorAssemblyInfo.cache
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\obj\Debug\netcoreapp2.1\gpa-tracker.RazorAssemblyInfo.cs
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\obj\Debug\netcoreapp2.1\gpa-tracker.AssemblyInfoInputs.cache
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\obj\Debug\netcoreapp2.1\gpa-tracker.AssemblyInfo.cs
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\obj\Debug\netcoreapp2.1\gpa-tracker.RazorTargetAssemblyInfo.cache
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\obj\Debug\netcoreapp2.1\gpa-tracker.dll
+d:\Work\SDi\gpa-tracker\Vue\gpa-tracker\obj\Debug\netcoreapp2.1\gpa-tracker.pdb
